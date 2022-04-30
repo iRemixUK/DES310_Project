@@ -36,6 +36,14 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "StaticMeshEditorModeling",
+			"Enabled": true
+		},
+		{
+			"Name": "UVEditor",
+			"Enabled": true
 		}
 	]
 }
